@@ -1,0 +1,5 @@
+abad
+bcda
+cdab
+dabc
+

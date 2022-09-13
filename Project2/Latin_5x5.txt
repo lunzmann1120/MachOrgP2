@@ -1,0 +1,6 @@
+a#c$e
+#c$ea
+c$ea#
+$ea#c
+ea#c$
+
